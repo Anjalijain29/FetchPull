@@ -1,4 +1,5 @@
 English-labrador
 German-labrador
 Beagle-black brown
-bargele - cream brown
+beagele - cream brown
+cocker spaniel-black
